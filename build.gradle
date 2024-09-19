@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'com.younghun'
-version = '0.0.10-SNAPSHOT'
+version = '0.0.1-SNAPSHOT'
 
 java {
     toolchain {
